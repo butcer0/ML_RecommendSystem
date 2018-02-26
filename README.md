@@ -1,4 +1,4 @@
-[[/Img/mlpython.png | ML Python]]
+[[/images/mlpython.png | ML Python]]
 
 # ML Recommendation System
 
