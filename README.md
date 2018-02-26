@@ -1,4 +1,4 @@
-[[/images/mlpython.png | ML Python]]
+[[https://github.com/butcer0/ML_RecommendSystem/blob/master/images/mlpython.png | ML Python]]
 
 # ML Recommendation System
 
