@@ -1,4 +1,4 @@
-![ML PYTHON](/blob/master/images/mlpython.png?raw=true "ML Python Recommendation System")
+![ML PYTHON](/images/mlpython.png?raw=true "ML Python Recommendation System")
 # ML Recommendation System
 
 Python Recommendation Service comparing ratings from small to massive open-sorce datastores for rapid content recommendation system. This system uses numpy, pandas, and scipy for enterprise ready data prediction system.
