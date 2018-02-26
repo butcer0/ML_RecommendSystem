@@ -9,7 +9,7 @@ raw_dataset_df = pd.read_csv('../Data/ratings.csv')
 raw_dataset_wo_timestamp_df = raw_dataset_df[['userId','movieId','rating']].copy()
 
 print("raw_dataset_wo_timestamp: {}".format(raw_dataset_wo_timestamp_df))
-print("raw_dataset_df: {}".format(raw_dataset_df))
+# print("raw_dataset_df: {}".format(raw_dataset_df))
 
 # Convert the running list of user ratings into a matrix
 ratings_df = pd.pivot_table(raw_dataset_wo_timestamp_df, index='userId', columns='movieId', aggfunc=np.max)
