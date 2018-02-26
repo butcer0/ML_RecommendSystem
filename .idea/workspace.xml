@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f099f2-00ce-45cd-b8fc-9980d4f4a463" name="Default" comment="checkin">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/UseSimilarities.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/similarities_mod.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/similarity_from_data.py" />
+    <list default="true" id="76f099f2-00ce-45cd-b8fc-9980d4f4a463" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/make_recommendations.py" afterPath="$PROJECT_DIR$/src/make_recommendations.py" />
-      <change beforePath="$PROJECT_DIR$/src/make_train_test_data.py" afterPath="$PROJECT_DIR$/src/make_train_test_data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="make_recommendations.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/make_recommendations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="movies.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/movies.csv">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,7 +27,7 @@
       <file leaf-file-name="similarity_from_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/similarity_from_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-153">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -52,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseSimilarities.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UseSimilarities.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UseSimilarities.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -67,6 +51,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
               <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="make_recommendations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/make_recommendations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -140,11 +136,11 @@
         <option value="$PROJECT_DIR$/src/train_recommender.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/measure_accuracy.py" />
-        <option value="$PROJECT_DIR$/src/make_recommendations.py" />
         <option value="$PROJECT_DIR$/src/make_train_test_data.py" />
         <option value="$PROJECT_DIR$/src/similarity_from_data.py" />
         <option value="$PROJECT_DIR$/src/UseSimilarities.py" />
         <option value="$PROJECT_DIR$/src/similarities_mod.py" />
+        <option value="$PROJECT_DIR$/src/make_recommendations.py" />
       </list>
     </option>
   </component>
@@ -216,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.UseSimilarities">
+  <component name="RunManager" selected="Python.make_recommendations">
     <configuration name="UseSimilarities" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,11 +312,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.UseSimilarities" />
-        <item index="1" class="java.lang.String" itemvalue="Python.similarity_from_data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.measure_accuracy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.make_train_test_data" />
-        <item index="4" class="java.lang.String" itemvalue="Python.make_recommendations" />
+        <item index="0" class="java.lang.String" itemvalue="Python.make_recommendations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.UseSimilarities" />
+        <item index="2" class="java.lang.String" itemvalue="Python.similarity_from_data" />
+        <item index="3" class="java.lang.String" itemvalue="Python.measure_accuracy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.make_train_test_data" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519618214766</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added similarities module">
+      <created>1519620272707</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1519620272707</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -494,16 +497,16 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.087267905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32811686" sideWeight="0.5061008" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32811686" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968178" sideWeight="0.49908015" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3541114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1921" y="45" width="1918" height="2054" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3541114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1921" y="45" width="1918" height="2054" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33594158" sideWeight="0.4959264" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -557,7 +560,8 @@
     <MESSAGE value="latest predicted_ratings data" />
     <MESSAGE value="Changelist 2" />
     <MESSAGE value="checkin" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkin" />
+    <MESSAGE value="added similarities module" />
+    <option name="LAST_COMMIT_MESSAGE" value="added similarities module" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -875,14 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/movies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/train_recommender.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -896,16 +892,6 @@
         <state relative-caret-position="650">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/make_recommendations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,11 +913,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/similarity_from_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-153">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UseSimilarities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/movies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -945,11 +947,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UseSimilarities.py">
+    <entry file="file://$PROJECT_DIR$/src/make_recommendations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="500">
+          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

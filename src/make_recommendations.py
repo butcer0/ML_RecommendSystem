@@ -15,7 +15,7 @@ user_id_to_search = int(input())
 print("Movies we will recommend:")
 
 user_ratings = predicted_ratings[user_id_to_search - 1]
-movies_df['rating'] = user_ratings
+movies_df['rating'] = pd.Series(user_ratings)
 movies_df = movies_df.sort_values(by=['rating'], ascending=False)
 
 print(movies_df[['title', 'genres', 'rating']].head(5))
