@@ -1,6 +1,7 @@
 import pickle
 import pandas as pd
 
+
 # Load prediction rules from data files
 #U = pickle.load(open("../Data/user_features.dat", "rb"))
 #M = pickle.load(open("../Data/product_features.dat", "rb"))
