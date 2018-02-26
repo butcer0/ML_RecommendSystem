@@ -1,5 +1,4 @@
-[[https://github.com/butcer0/ML_RecommendSystem/blob/master/images/mlpython.png | ML Python]]
-
+[[https://github.com/butcer0/ML_RecommendSystem/blob/master/images/mlpython.png|alt=mlpython]]
 # ML Recommendation System
 
 Python Recommendation Service comparing ratings from small to massive open-sorce datastores for rapid content recommendation system. This system uses numpy, pandas, and scipy for enterprise ready data prediction system.
